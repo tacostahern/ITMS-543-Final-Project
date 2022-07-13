@@ -1,2 +1,2 @@
 # ITMS-543-Final-Project
-Repository for the ITMS 543 Vulnerability Analysis and Control Final Project
+This project was the culmination of a semester of learning of cybersecurity vulnerabilities, exploiting them, and how to remediate them. I was given an IP address for a machine "acme" created by the professor with the task of analyzing any vulnerabilities on the system, exploiting them to gain access to the machine, as well as tasked with figuring out a way to remediate these vulnerabilities, similar to how a penetration tester would conduct themselves in the real world. Attached is the Final Report for this project
